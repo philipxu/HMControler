@@ -98,6 +98,7 @@ public class SlidingSwitcherView extends RelativeLayout implements OnTouchListen
 	 * 重写SlidingSwitcherView的构造函数，用于允许在XML中引用当前的自定义布局。
 	 * 
 	 * @param context
+     * write something about context
 	 * @param attrs
 	 */
 	public SlidingSwitcherView(Context context, AttributeSet attrs) {
