@@ -100,6 +100,7 @@ public class SlidingSwitcherView extends RelativeLayout implements OnTouchListen
 	 * @param context
      * write something about context
 	 * @param attrs
+     * write something about attrs
 	 */
 	public SlidingSwitcherView(Context context, AttributeSet attrs) {
 		super(context, attrs);
